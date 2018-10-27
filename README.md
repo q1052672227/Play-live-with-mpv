@@ -7,6 +7,7 @@ The VBS file startup item is placed in the startup folder to facilitate the next
 
 <a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> to system PATH</li>
 
+
 support Python3
 Simple installation guide:
 
