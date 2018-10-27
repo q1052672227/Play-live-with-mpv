@@ -1,5 +1,5 @@
 # Play-live-with-mpv
-website: https://github.com/q1052672227/Play-live-with-mpv
+website: https://github.com/shiyu1314/Play-live-with-mpv
 
 Downloading video through aria2c multithreading
 
