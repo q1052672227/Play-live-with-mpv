@@ -2,6 +2,8 @@
 
 website: https://github.com/q1052672227/Play-live-with-mpv
 
+<a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> to system PATH</li>
+
 support Python3
 Simple installation guide:
 
