@@ -5,13 +5,11 @@
 
 VBS文件启动项放在启动文件夹中，以方便下次启动。
 
-MPV到系统路径
-
 支持Python3简单安装指南：
 
 Windows：从python.org安装python3
 
-<a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> to system PATH</li>
+<a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> 并设置环境变量</li>
 
 
 pip3 install you-get 
