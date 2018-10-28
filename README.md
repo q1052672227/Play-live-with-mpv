@@ -10,7 +10,7 @@ VBS文件启动项放在启动文件夹中，以方便下次启动。
 
 Windows：
 
-<a href="https://www.python.org/" rel="nofollow">python.org</a> 从安装python3</li>
+<a href="https://www.python.org/" rel="nofollow">python.org</a> 安装python3</li>
 
 <a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> 并设置环境变量</li>
 
