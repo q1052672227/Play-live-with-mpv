@@ -1,5 +1,4 @@
 # Play-live-with-mpv
-网站：https：//github.com/shiyu1314/Play-live-with-mpv
 
 通过aria2c多线程下载视频
 
