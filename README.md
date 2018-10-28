@@ -1,18 +1,18 @@
 # Play-live-with-mpv
-website: https://github.com/shiyu1314/Play-live-with-mpv
+网站：https：//github.com/shiyu1314/Play-live-with-mpv
 
-Downloading video through aria2c multithreading
+通过aria2c多线程下载视频
 
-The VBS file startup item is placed in the startup folder to facilitate the next boot.
+VBS文件启动项放在启动文件夹中，以方便下次启动。
+
+MPV到系统路径
+
+支持Python3简单安装指南：
+
+Windows：从python.org安装python3
 
 <a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> to system PATH</li>
 
-
-support Python3
-Simple installation guide:
-
-Windows:
-install python3 from python.org
 
 pip3 install you-get 
 
