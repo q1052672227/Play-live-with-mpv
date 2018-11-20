@@ -12,14 +12,14 @@
 
 <p align="center">Windows：</p>
 
-<p align="center"><a href="https://www.python.org/" rel="nofollow">python.org</a> 安装python3</li></p></p></p></p></p>
+<p align="center"><a href="https://www.python.org/" rel="nofollow">python.org</a> 安装python3</li></p>
 
-<p align="center"><a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> 并设置环境变量</li></p></p></p></p>
+<p align="center"><a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> 并设置环境变量</li></p>
 
 
-<p align="center">pip3 install you-get </p></p></p>
+<p align="center">pip3 install you-get </p>
 
-<p align="center">pip3 install youtube-dl</p></p>
+<p align="center">pip3 install youtube-dl</p>
 
 <p align="center">pip install --upgrade ykdl</p>
 
