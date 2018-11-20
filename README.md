@@ -21,4 +21,5 @@ pip3 install youtube-dl
 
 pip install --upgrade ykdl
 
-
+![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/mpv.png)
+![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/高速下载.png)
