@@ -1,6 +1,6 @@
 <p align="center"><img width="15%" src="logo.png" /></p>
-<h1 align="center">Play-live-with-mpv</h1>
-
+<h1 align="center">MPV播放</h1>
+<p align="center">
 <a href="https://jq.qq.com/?_wv=1027&k=5qgRg84" rel="nofollow">QQ群：</a>926520933</li>
 
 利用一些命令工具调用mpv播放和aria2c多线程下载视频(支持百度云)
@@ -26,3 +26,4 @@ pip install --upgrade ykdl
 
 ![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/mpv.png)
 ![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/高速下载.png)
+ /></p>
