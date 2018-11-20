@@ -1,5 +1,7 @@
 # Play-live-with-mpv
 
+<a href="https://jq.qq.com/?_wv=1027&k=5qgRg84" rel="nofollow">QQ群：</a>926520933</li>
+
 利用一些命令工具调用mpv播放和aria2c多线程下载视频(支持百度云)
 
 VBS文件启动项放在启动文件夹中，以方便下次启动。
