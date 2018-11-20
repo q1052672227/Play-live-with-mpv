@@ -1,6 +1,5 @@
-# Play-live-with-mpv
 <p align="center"><img width="15%" src="logo.png" /></p>
-<h1 align="center">MPV播放</h1>
+<h1 align="center">Play-live-with-mpv</h1>
 
 <a href="https://jq.qq.com/?_wv=1027&k=5qgRg84" rel="nofollow">QQ群：</a>926520933</li>
 
