@@ -1,6 +1,5 @@
 <p align="center"><img width="15%" src="logo.png" /></p>
 <h1 align="center">MPV播放</h1>
-<p align="center"><a href="https://jq.qq.com/?_wv=1027&k=5qgRg84" rel="nofollow">QQ群：</a>926520933</li></p>
 
 <p align="center">利用一些命令工具调用mpv播放和aria2c多线程下载视频(支持百度云)</p>
 
