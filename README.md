@@ -1,4 +1,4 @@
-<p align="center"><img width="15%" src="logo.png" /></p>
+<p align="center"><img width="15%" src="https://github.com/shiyu1314/Play-live-with-mpv/blob/master/icon/logo.png" /></p>
 <h1 align="center">MPV播放</h1>
 
 <p align="center">利用一些命令工具调用mpv播放和aria2c多线程下载视频(支持百度云)</p>
@@ -22,5 +22,5 @@
 
 <p align="center">pip install --upgrade ykdl</p>
 
-![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/mpv.png)
-![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/高速下载.png)
+![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/icon/MPV.png)
+![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/icon/gs.png)
