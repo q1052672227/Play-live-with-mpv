@@ -11,7 +11,7 @@
 
 <p align="center">Windows：</p>
 
-<p align="center"><a href="https://www.python.org/" rel="nofollow">python.org</a> 安装python3</li></p>
+<p align="center"><a href="https://www.python.org/" rel="nofollow">安装python3</a></li></p>
 
 <p align="center"><a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> 并设置环境变量</li></p>
 
