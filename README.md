@@ -22,7 +22,7 @@
 
 <p align="center">pip install --upgrade ykdl</p>
 
-<p align="center"><a href="https://github.com/littlecodersh/danmu" rel="nofollow">python.org</a> 弹幕包</li></p>
+<p align="center"><a href="https://github.com/littlecodersh/danmu" rel="nofollow">弹幕包</a></li></p>
 
 ![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/icon/MPV.png)
 ![image](https://github.com/shiyu1314/Play-live-with-mpv/blob/master/icon/gs.png)
