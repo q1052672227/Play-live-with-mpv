@@ -1,7 +1,7 @@
 <p align="center"><img width="15%" src="https://github.com/shiyu1314/Play-live-with-mpv/blob/master/icon/logo.png" /></p>
 <h1 align="center">MPV播放</h1>
 
-<p align="center">利用一些命令工具调用mpv播放和aria2c多线程下载视频(支持百度云)</p>
+<p align="center">利用一些命令工具调用mpv播放直播和视频</p>
 
 <p align="center">VBS文件启动项放在启动文件夹中，以方便下次启动。</p>
 
