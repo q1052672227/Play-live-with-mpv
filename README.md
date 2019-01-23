@@ -17,6 +17,7 @@
 
 <p align="center"><a href="https://mpv.srsfckn.biz/" rel="nofollow">MPV</a> 并设置环境变量</li></p>
 
+<p align="center"><a href="https://github.com/shiyu1314/Mpv-configuration" rel="nofollow">MPV配置</a></li></p>
 
 <p align="center">pip3 install you-get </p>
 
