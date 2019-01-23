@@ -5,7 +5,9 @@
 
 <p align="center">VBS文件启动项放在启动文件夹中，以方便下次启动。</p>
 
-<p align="center">安装CRX</p>
+<p align="center"><a href="https://tools.shuax.com/chrome/">安装最新版本谷歌浏览器</a></li></p>
+
+<p align="center">导入注册表，打开谷歌浏览器并打开开发者模式拖入MPV.CRX</p>
 
 <p align="center">支持Python3简单安装指南：</p>
 
