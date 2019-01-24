@@ -13,11 +13,11 @@
 
 <p align="center">Windows：</p>
 
-<p align="center"><a href="https://www.python.org/" rel="nofollow">安装python3</a></li></p>
-
 <p align="center"><a href="https://mpv.srsfckn.biz/" rel="nofollow">安装MPV并设置环境变量</a></li></p>
 
 <p align="center"><a href="https://github.com/shiyu1314/Mpv-configuration" rel="nofollow">MPV配置</a></li></p>
+
+<p align="center"><a href="https://www.python.org/" rel="nofollow">安装python3</a></li></p>
 
 <p align="center">pip3 install you-get </p>
 
